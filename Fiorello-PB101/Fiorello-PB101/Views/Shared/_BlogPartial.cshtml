@@ -1,0 +1,22 @@
+﻿@model IEnumerable<BlogVM>
+
+<div class="row pb-5">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-6 col-lg-4">
+            <div class="item">
+                <div class="img position-relative">
+                    <img src="~/img/@item.Image" class="img-fluid" alt="">
+                    <div class="date rounded bg-light position-absolute py-1 px-2">
+                        <span>@item.CreatedDate</span>
+                    </div>
+                </div>
+                <div class="text mt-3 text-center px-5">
+                    <h5>@item.Title</h5>
+                    <p class="text-black-50">@item.Description</p>
+                </div>
+            </div>
+        </div>
+    }
+
+</div>

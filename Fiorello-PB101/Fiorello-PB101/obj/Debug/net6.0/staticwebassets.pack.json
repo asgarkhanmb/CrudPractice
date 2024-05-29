@@ -1,0 +1,1061 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Fiorello-PB101.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Fiorello-PB101.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\css\\animate.css\\css\\animate.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\animate.css\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\css\\chartist\\chartist.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\chartist\\chartist.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\css\\jquery.mCustomScrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\jquery.mCustomScrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\css\\morris.js\\css\\morris.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\morris.js\\css\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\icofont\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\css\\icofont.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\icon\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\auth\\Logo-small-bottom.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\Logo-small-bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\auth\\Thumbs.db",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\auth\\logo-dark.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\auth\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\avatar-blank.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-blank.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\blog\\blog-130.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-130.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\blog\\blog-r-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-r-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\blog\\blog-r-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-r-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\blog\\blog-r-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-r-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\blog\\blog-single-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-single-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\blog\\blog-single.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\blog\\blog-small-bg-1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-small-bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\blog\\st_gallery1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\st_gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\blog\\st_gallery2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\st_gallery2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\blog\\st_gallery3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\st_gallery3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\browser\\chrome.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\chrome.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\browser\\firefox.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\firefox.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\browser\\ie.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\ie.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\browser\\opera.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\opera.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\browser\\safari.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\safari.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\details_close.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\details_close.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\details_open.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\details_open.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\faq_man.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faq_man.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\logo-blue.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-blue.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\logo-compact.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-compact.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\mCSB_buttons.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mCSB_buttons.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\mega-menu\\01.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\mega-menu\\02.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\mega-menu\\03.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\select-arrow.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\select-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\tooltip\\Euclid.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\tooltip\\Euclid.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\tooltip\\shape1.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\tooltip\\shape1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\tooltip\\tooltip1.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\tooltip\\tooltip1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\user-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\AUSTRALIA.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\AUSTRALIA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\BRAZIL.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\BRAZIL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\DIGITALPEN.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\DIGITALPEN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\GERMANY.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\GERMANY.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\IPAD.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\IPAD.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\PHONE1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\PHONE1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\PHONE2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\PHONE2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\PHONE3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\PHONE3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\PHONE4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\PHONE4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\TABLET.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\TABLET.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\UK.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\UK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\USA.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\USA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\prod1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\prod1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\prod2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\prod2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\prod3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\prod3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\prod4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\prod4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\wather2bottom.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wather2bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\wather2m.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wather2m.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\wather2star1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wather2star1.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\wather2star2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wather2star2.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\watherbottom.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\watherbottom.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\wathernature.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wathernature.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\watherstar1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\watherstar1.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\images\\widget\\watherstar2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\watherstar2.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\archive.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\archive.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\bootstrap-growl.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap-growl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\common-pages.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\common-pages.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\modernizr\\css-scrollbars.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\modernizr\\css-scrollbars.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\modernizr\\modernizr.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\modernizr\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\morris-custom-chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\morris-custom-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\morris.js\\morris.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\morris.js\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\pcoded.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\pcoded.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\script.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\script.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\js\\vertical-layout.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vertical-layout.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\accordion\\accordion.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\accordion\\accordion.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\accordion\\accordion.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\accordion\\accordion.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\css\\amchart.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\css\\amchart.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\css\\export.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\css\\export.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\export.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\export.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\light.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\light.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\serial.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\serial.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\dashboard\\custom-dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\custom-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\google-maps\\gmaps.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\google-maps\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\google-maps\\google-maps.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\google-maps\\google-maps.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\icon-modal.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\icon-modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\notification\\notification.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\notification\\notification.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\notification\\notification.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\notification\\notification.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\todo\\todo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\todo\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\waves\\css\\waves.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\waves\\css\\waves.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\waves\\js\\waves.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\waves\\js\\waves.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\amcharts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\amcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\amcharts.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\amcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\export.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\export.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\gauge.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\gauge.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\gauge.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\gauge.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\light.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\light.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\light.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\light.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\pie.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\pie.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\pie.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\pie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\serial.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\serial.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\serial.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\serial.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\admin\\assets\\pages\\widget\\excanvas.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\excanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\css\\blog.css",
+      "PackagePath": "staticwebassets\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\css\\product.css",
+      "PackagePath": "staticwebassets\\css\\product.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\0a3b0113-06f0-440e-89ac-820ae99dba5a-F.jpg",
+      "PackagePath": "staticwebassets\\img\\0a3b0113-06f0-440e-89ac-820ae99dba5a-F.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\0f5c160d-9abf-4934-88cc-22cbfbde0228-F.jpg",
+      "PackagePath": "staticwebassets\\img\\0f5c160d-9abf-4934-88cc-22cbfbde0228-F.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\2f7a92f8-a0d8-48b9-8b5d-b733f9bdacc0-E.jpg",
+      "PackagePath": "staticwebassets\\img\\2f7a92f8-a0d8-48b9-8b5d-b733f9bdacc0-E.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\6def266f-c5ba-4f3d-b8ce-b82f475505a6-g.jpg",
+      "PackagePath": "staticwebassets\\img\\6def266f-c5ba-4f3d-b8ce-b82f475505a6-g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\88d1cf0a-b991-40b7-b20a-676901909172-F.jpg",
+      "PackagePath": "staticwebassets\\img\\88d1cf0a-b991-40b7-b20a-676901909172-F.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\blog-feature-img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-feature-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\blog-feature-img-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-feature-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\blog-feature-img-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-feature-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\c940777a-bf06-4d03-a121-feba1d89773e-2.jpeg",
+      "PackagePath": "staticwebassets\\img\\c940777a-bf06-4d03-a121-feba1d89773e-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\cca3367b-0c58-470f-97ff-744633871135-g.jpg",
+      "PackagePath": "staticwebassets\\img\\cca3367b-0c58-470f-97ff-744633871135-g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\d3afa701-9947-4dff-b237-b0a8e6e1edde-g.jpg",
+      "PackagePath": "staticwebassets\\img\\d3afa701-9947-4dff-b237-b0a8e6e1edde-g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\d588dfe4-6f23-446a-bd10-ca412b932c40-a.png",
+      "PackagePath": "staticwebassets\\img\\d588dfe4-6f23-446a-bd10-ca412b932c40-a.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\e0d83c9c-f478-4574-a996-3999cd1d1760-h3-background-img.jpg",
+      "PackagePath": "staticwebassets\\img\\e0d83c9c-f478-4574-a996-3999cd1d1760-h3-background-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\f17832c6-4721-4d09-9e48-07ef25a51bf7-g.jpg",
+      "PackagePath": "staticwebassets\\img\\f17832c6-4721-4d09-9e48-07ef25a51bf7-g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\ff54a1ff-caa8-4ff6-a266-d2f311bd1bc5-2.jpeg",
+      "PackagePath": "staticwebassets\\img\\ff54a1ff-caa8-4ff6-a266-d2f311bd1bc5-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\footer-bottom-1.png",
+      "PackagePath": "staticwebassets\\img\\footer-bottom-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\h1-custom-icon.png",
+      "PackagePath": "staticwebassets\\img\\h1-custom-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\h2-sign-img.png",
+      "PackagePath": "staticwebassets\\img\\h2-sign-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\h3-background-img.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-background-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\h3-slider-background-2.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-slider-background-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\h3-slider-background-3.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-slider-background-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\h3-slider-background.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-slider-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\h3-team-img-1.png",
+      "PackagePath": "staticwebassets\\img\\h3-team-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\h3-team-img-2.png",
+      "PackagePath": "staticwebassets\\img\\h3-team-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\h3-team-img-3.png",
+      "PackagePath": "staticwebassets\\img\\h3-team-img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\h3-team-img-4.png",
+      "PackagePath": "staticwebassets\\img\\h3-team-img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\h3-video-img.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-video-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\instagram1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\instagram2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\instagram3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\instagram4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\instagram5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\instagram6.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\instagram7.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\instagram8.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-10-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-10-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-11-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-11-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-12-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-12-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-13-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-13-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-14-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-14-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-7-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-7-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-8-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-8-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-9-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-9-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-category-img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-category-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-category-img-3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-category-img-4.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-category-img-5.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\shop-category-img-6.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\testimonial-img-1.png",
+      "PackagePath": "staticwebassets\\img\\testimonial-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\img\\testimonial-img-2.png",
+      "PackagePath": "staticwebassets\\img\\testimonial-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\js\\basket.js",
+      "PackagePath": "staticwebassets\\js\\basket.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\owlcarousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\owlcarousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\owlcarousel\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\owlcarousel\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\lib\\_common.scss",
+      "PackagePath": "staticwebassets\\sass\\lib\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\lib\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\lib\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\lib\\_varibales.scss",
+      "PackagePath": "staticwebassets\\sass\\lib\\_varibales.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_about.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_accordion.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_experts.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_experts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_instagram.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_instagram.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_product-list.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_product-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_product.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_progress.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_say.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_say.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_shop-list.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_shop-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_slider.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_subscribe.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_subscribe.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\sections\\_tab.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_tab.scss"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAsp.net project\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Fiorello-PB101.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Fiorello-PB101.props",
+      "PackagePath": "build\\Fiorello-PB101.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Fiorello-PB101.props",
+      "PackagePath": "buildMultiTargeting\\Fiorello-PB101.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Fiorello-PB101.props",
+      "PackagePath": "buildTransitive\\Fiorello-PB101.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,16 @@
+﻿@model CategoryEditVM
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="container mt-5">
+    <form method="post" asp-action="Edit">
+        <div class="forms-sample">
+            <label for="exampleInputUsername1">Category</label>
+            <input asp-for=Name class="form-control" maxlength="100" placeholder="Category ..."></input>
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary mr-2 mt-3">Submit</button>
+        <a class="btn btn-light mt-3" asp-action="Index">Cancel</a>
+    </form>
+</div>

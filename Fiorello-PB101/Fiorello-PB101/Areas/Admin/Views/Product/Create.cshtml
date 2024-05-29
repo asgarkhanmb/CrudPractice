@@ -1,0 +1,36 @@
+﻿@model ProductCreateVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container mt-5">
+    <form class="forms-sample" method="post" asp-action="Create" enctype="multipart/form-data">
+        <div class="forms-sample">
+            <label for="exampleInputUsername1">Name</label>
+            <input asp-for=Name class="form-control">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="forms-sample">
+            <label for="exampleInputUsername1">Description</label>
+            <input asp-for=Description class="form-control">
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        <div class="forms-sample">
+            <label for="exampleInputUsername1">Price</label>
+            <input asp-for=Price type="number" class="form-control" step="any" min="0">
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+        <div class="forms-sample">
+            <label for="exampleInputUsername1">Category</label>
+            <select asp-for="CategoryId" asp-items="@ViewBag.categories" class="form-control"></select>
+        </div>
+        <div class="forms-sample">
+            <label for="exampleInputUsername1">Images</label>
+            <input class="form-control" asp-for="Images">
+            <span asp-validation-for="Images" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary mr-2 mt-3">Submit</button>
+        <a class="btn btn-light mt-3" asp-action="Index">Cancel</a>
+    </form>
+</div>

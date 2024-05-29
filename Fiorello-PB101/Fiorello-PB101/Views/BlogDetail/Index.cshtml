@@ -1,0 +1,95 @@
+﻿@model Blog
+@{
+    ViewData["Title"] = "Index";
+}
+
+@section css {
+    <link rel="stylesheet" href="~/css/blog.css">
+}
+
+<section class="product-container">
+    <!-- left side -->
+    <div class="img-card">
+        <img src="img/image-1.png" alt="" id="featured-image">
+        <!-- small img -->
+        <div class="small-Card">
+             
+            
+            <img src="~/img/@Model.Image" alt="" class="small-Img">
+            <img src="~/img/@Model.Image" alt="" class="small-Img">
+            
+        </div>
+    </div>
+    <!-- Right side -->
+    <div class="product-info">
+        <h3>LEVI'S® WOMEN'S XL TRUCKER JACKET</h3>
+        <h5>Price: $140 <del>$170</del></h5>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa accusantium, aspernatur provident beatae corporis veniam atque facilis, consequuntur assumenda, vitae dignissimos iste exercitationem dolor eveniet alias eos ullam nesciunt voluptatum.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore accusamus natus dolorum. Quaerat nulla quod doloremque, officia quis provident amet adipisci unde esse iure delectus, maxime inventore optio fuga nisi?</p>
+
+        <div class="sizes">
+            <p>Size:</p>
+            <select name="Size" id="size" class="size-option">
+                <option value="xxl">XXL</option>
+                <option value="xl">XL</option>
+                <option value="medium">Medium</option>
+                <option value="small">Small</option>
+            </select>
+        </div>
+
+        <div class="quantity">
+            <input type="number" value="1" min="1">
+            <button>Add to Cart</button>
+            <button>Back</button>
+        </div>
+    </div>
+</section>
+
+ <script>
+
+    let featuedImg = document.getElementById('featured-image');
+    let smallImgs = document.getElementsByClassName('small-Img');
+
+    smallImgs[0].addEventListener('click', () => {
+        featuedImg.src = smallImgs[0].src;
+        smallImgs[0].classList.add('sm-card')
+        smallImgs[1].classList.remove('sm-card')
+        smallImgs[2].classList.remove('sm-card')
+        smallImgs[3].classList.remove('sm-card')
+        smallImgs[4].classList.remove('sm-card')
+    })
+    smallImgs[1].addEventListener('click', () => {
+        featuedImg.src = smallImgs[1].src;
+        smallImgs[0].classList.remove('sm-card')
+        smallImgs[1].classList.add('sm-card')
+        smallImgs[2].classList.remove('sm-card')
+        smallImgs[3].classList.remove('sm-card')
+        smallImgs[4].classList.remove('sm-card')
+    })
+    smallImgs[2].addEventListener('click', () => {
+        featuedImg.src = smallImgs[2].src;
+        smallImgs[0].classList.remove('sm-card')
+        smallImgs[1].classList.remove('sm-card')
+        smallImgs[2].classList.add('sm-card')
+        smallImgs[3].classList.remove('sm-card')
+        smallImgs[4].classList.remove('sm-card')
+    })
+    smallImgs[3].addEventListener('click', () => {
+        featuedImg.src = smallImgs[3].src;
+        smallImgs[0].classList.remove('sm-card')
+        smallImgs[1].classList.remove('sm-card')
+        smallImgs[2].classList.remove('sm-card')
+        smallImgs[3].classList.add('sm-card')
+        smallImgs[4].classList.remove('sm-card')
+    })
+    smallImgs[4].addEventListener('click', () => {
+        featuedImg.src = smallImgs[4].src;
+        smallImgs[0].classList.remove('sm-card')
+        smallImgs[1].classList.remove('sm-card')
+        smallImgs[2].classList.remove('sm-card')
+        smallImgs[3].classList.remove('sm-card')
+        smallImgs[4].classList.add('sm-card')
+    })
+
+
+ </script>

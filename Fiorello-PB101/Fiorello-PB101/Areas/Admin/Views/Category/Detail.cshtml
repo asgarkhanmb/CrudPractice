@@ -1,0 +1,27 @@
+﻿@model Category
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<div class="container mt-5">
+    <article class="product">
+        <h2 class="product-title">
+            @Model.Name
+        </h2>
+        @foreach(var item in Model.Products)
+        {
+            @foreach(var img in item.ProductImages)
+            {
+                <p class="description">@item.Name</p>
+                <p class="shipping">@item.CreatedDate</p>
+                <img style="witdh:100px; height:200px;" class="product-image" src="~/img/@img.Name" alt=" Winter GORE-TEX Lugged Chuck Taylor All Star Boot High Top" />
+             
+              
+            }
+            <a asp-action="Index" class="btn btn-primary">Back</a>
+        }
+    </article>
+</div>
+
+

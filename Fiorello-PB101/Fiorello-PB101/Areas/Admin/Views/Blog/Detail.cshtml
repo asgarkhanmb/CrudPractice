@@ -1,0 +1,20 @@
+﻿@model Blog
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<div class="container mt-5">
+    <article class="product">
+        <h2 class="product-title">
+            @Model.Title
+        </h2>
+         <img style="witdh:100px; height:200px;" class="product-image" src="~/img/@Model.Image" alt=" Winter GORE-TEX Lugged Chuck Taylor All Star Boot High Top" />
+        <p class="description">@Model.Description</p>
+        <p class="shipping">Free shipping</p>
+        <a asp-action="Index" class="btn btn-primary">Back</a>
+    </article>
+</div>
+
+
+
